@@ -13,3 +13,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Anotações locais
+notas-pessoais.txt
